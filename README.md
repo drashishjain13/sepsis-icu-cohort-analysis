@@ -29,3 +29,8 @@ Python 3.x. Libraries: pandas, scikit-learn, statsmodels.
 ## Authors
 Dr. Ashish Jain, Department of Emergency Medicine, Sumandeep Vidyapeeth, Vadodara
 Contact: dr.aashish.jain@gmail.com
+
+
+![GitHub stars](https://img.shields.io/github/stars/USERNAME/icu-fever-prediction-model)
+![License](https://img.shields.io/github/license/USERNAME/icu-fever-prediction-model)
+![Release](https://img.shields.io/github/v/release/USERNAME/icu-fever-prediction-model)
